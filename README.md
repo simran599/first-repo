@@ -1,2 +1,2 @@
-# test-repo
+# Testing Repository
 simple repo
